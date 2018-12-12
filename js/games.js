@@ -1,5 +1,5 @@
-const WIDTH = 600;
-const HEIGH = 600;
+const WIDTH = 800;
+const HEIGH = 800;
 
 let target = {
   x: getRandomNumber(WIDTH),
